@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#principal{
+    background-color: rgb(232, 116, 236);
+    height: 100vh;
+}
+.noticia{
+    background-color: rgb(252, 193, 252);
+    border-radius: 20px;
+    float: left;
+    display: inline;
+    padding: 30px;
+    margin: 15px;
+    width: 350px;
+}
+img{
+    width: 350px;
+}
+.corta{
+    height: 200px;
+}
+.larga{
+    height: 400px;
+}
+h1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: 100;
+    font-size: 32px;
+}
+time{
+    font-style: italic;
+    color: gray;
+}
