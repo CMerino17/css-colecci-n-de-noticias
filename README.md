@@ -1,1 +1,1 @@
-# Práctica CSS Colecci
+# Práctica CSS Coleccion de noticias
